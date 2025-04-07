@@ -18,7 +18,7 @@ ERP-системы клиентов (1С, SAP) — загрузка реестр
 
 #### Уровень контейнеров (C4 Containers)
 
-![image](https://github.com/user-attachments/assets/e21bdc30-c13a-49a3-9ecc-71c52b9b9129)
+![image](https://github.com/user-attachments/assets/efbdb7cd-3acf-4b50-a1f5-6750d3fd2a9a)
 
 Инфраструктура:
 Фронтенд: Веб (React) + Мобильное приложение (Kotlin/Swift).
